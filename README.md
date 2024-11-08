@@ -1,1 +1,2 @@
-# digital-comm-bit-error-rate
+# bit error rate simulation in digital communication
+the simulation, part of the Fundamentals of Digital Communication course, focuses on analyzing the bit error rate (BER) of a baseband communication system over an additive white Gaussian noise (AWGN) channel. it includes both theoretical derivations and MATLAB-based simulations, allowing for a comparison between theoretical predictions and simulated system performance.
